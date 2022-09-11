@@ -1,3 +1,3 @@
 # DSAChallenges
 
-DSA Challenges I solve from hackerranck
+DSA Challenges I solved from hackerranck
